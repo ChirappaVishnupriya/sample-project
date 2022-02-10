@@ -1,0 +1,6 @@
+{
+  "packages": [
+    "packages/*","path1/*","service1/*"
+  ],
+  "version": "0.0.0"
+}
